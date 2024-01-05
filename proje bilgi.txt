@@ -1,0 +1,36 @@
+stop_words_en.txt -> stop wordler 
+
+test_stop_words.txt -> stop_word liste kontrol  
+
+without_stop_words.txt ->stop word olmadan tüm kullanıcıların kullandığı kelimeler (1 yok - yorum satirina bak)
+
+last_words -> en cok tekrardanan 500 kelimeden stop words cikarildi
+
+users.txt -> tüm userler 
+
+selected_user.txt -> graf için seçili kullanıcı
+
+hash_cikti.txt -> hash tablosunda olan kelimelerin hangi kullanıcıların kullandıkları bilgisi  ( ilgi
+alanını paylaşan kullanıcıların listesini değer olarak saklanmalıdır.
+)
+
+common_types -> takipci ilişkisi olan kullanıcılar eşletirme
+
+ortak_hiz_test.txt -> belirli ortak hash kelime kullananlar arası ilişkisi
+
+ortak_alan.txt -> kullanicilarin kullandıgı hash kelimeleri (hash'in ters fonksiyonu)
+
+ortak_insanlar -> common_types(belirli takipci) + ortak_hiz_test(belirli ortak hash kelime) birlesimi ile ortaya cikan iliski (ortak ilgi alanlarına sahip kullanıcıları
+eşleştirilmelidir.
+)
+
+lang_write.txt -> dillerin en çok kullanan 10 kelimesi çıktı verir
+
+region_tweet.txt -> regionlarların en çok kullanan 10 kelimesini çıktı verir
+
+
+
+ 
+
+
+
